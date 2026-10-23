@@ -14,7 +14,7 @@ GPR horizon reconstruction under sparse profile coverage* (in preparation; targe
 Safari). The file is fully self-contained — about 0.46 MB, with the derived fields embedded as
 base64 arrays and no external requests of any kind. It also works directly from GitHub Pages.
 
-![preview](preview.png)
+![Repository screenshot](FramePic.png)
 
 ---
 
@@ -121,7 +121,7 @@ on top of `scipy.ndimage.gaussian_filter`; no third-party geophysics package is 
 
 ```
 horizon3d.html   the interactive viewer (single self-contained file)
-preview.png      screenshot used in this README
+FramePic.png     screenshot used in this README
 README.md        this file
 LICENSE          MIT licence for the code
 ```
